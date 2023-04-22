@@ -1,0 +1,22 @@
+body{
+    background-color: #2c49bc;
+}
+.contianer{
+    width: 350px;
+    margin: 0 auto;
+    padding: 0 16px;
+    background-color:#fff;
+}
+Label{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    text-align: center;
+}
+button{
+    display: block;
+    margin: 50px auto;
+    border: 2px solid blue;
+}
